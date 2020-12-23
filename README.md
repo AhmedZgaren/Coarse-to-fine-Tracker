@@ -24,7 +24,7 @@ It is highly recommended to have a machine equipped with a GPU to speed up the t
 * Download the dataset
 * Modify the file: configSeqs.m
   * on the OTB100 struct.
-  * change the path for each sequence ( add your local path where you stored the dataset).
+  * change the path for each sequence (add your local path where you stored the dataset).
 * Results (.mat) for each sequence are stored in the folder: results/results_OPE.
 * To execute the tracker, run the file: main_running.m.
 * To change the tracker parameters, access the file: tracker_benchmark v1.1\trackers\Ours_SRDCF\run_OURS_SRDCF.m
